@@ -1,0 +1,25 @@
+*{
+margin:0;
+padding:0;
+}
+
+boddy{
+
+}
+/*header kısım*/
+header{width:99%; height:200px;}
+.header{width:99%;height:200px;margin:0 auto;border:5px solid #ccc; border-color:black;}
+.profilimg{float:right; }
+.cerceve01 {width:180px; height:40px; border:5px solid #ccc; border-color:black;}
+.cerceve02 {width:180px; height:40px; border:5px solid #ccc; border-color:black;}
+.cerceve03 {width:180px; height:40px; border:5px solid #ccc; border-color:black;}
+.cerceve04 {width:180px; height:40px; border:5px solid #ccc; border-color:black;}
+.profilimg img{width:180px; height:190px; margin-top:-200 ; border:5px solid #ccc; border-color:black;}
+.profilname{float:left; font-size:32px; color:black;}
+
+
+
+/*header kısım*/
+/*container kısım*/
+
+/*container ksıım*/
